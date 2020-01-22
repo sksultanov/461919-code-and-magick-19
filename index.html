@@ -231,7 +231,7 @@
     </template>
     <script>
       var middleWiaradX = 300;
-      var twoThitdsWizardY = 67;
+      var twoThirtdsWizardY = 67;
       var proportionWizard = 1.337;
       var fireballSize = 22;
       var getFireballSpeed = function(left) {
@@ -240,13 +240,13 @@
       wizardSpeed = 3;
       wizardWidth = 70;
       var getWizardHeight = function(height) {
-        return proportionWizard * wizardWidth;
+        return (height = proportionWizard * wizardWidth);
       };
       var getWizardX = function(height) {
-        return middleWiaradX;
+        return (height = middleWiaradX);
       };
       var getWizardY = function(width) {
-        return twoThitdsWizardY;
+        return (width = twoThirtdsWizardY);
       };
     </script>
     <script src="js/game.js"></script>
