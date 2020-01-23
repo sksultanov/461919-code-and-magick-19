@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Шамиль Султанов](https://up.htmlacademy.ru/javascript/19/user/461919).
-* Наставник: `Неизвестно`.
+- Студент: [Шамиль Султанов](https://up.htmlacademy.ru/javascript/19/user/461919).
+- Наставник: [Мурат Баркинхоев](https://htmlacademy.ru/profile/id186857).
 
 ---
 
